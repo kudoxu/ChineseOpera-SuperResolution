@@ -1,4 +1,9 @@
 # ChineseOpera-SuperResolution
+
+<div style="align: center">
+  <img src="https://user-images.githubusercontent.com/23714155/118137184-7f7c8500-b437-11eb-96f0-5b3ff4f39bc8.png">
+</div>
+
 ## 戏曲是中国传统文化的美学思想精髓。
 ### 豫剧（英文：Henan Opera），发源于中原（河南开封）。是中国最大的地方剧种，居中国各地方戏曲之首。
 ### 此项目是想把历史长河中经典的豫剧视频做一下超分辨率处理，因为很多豫剧名家所留下的作品在上个世纪居多，但是清晰度都比较低，影响观看体验。
